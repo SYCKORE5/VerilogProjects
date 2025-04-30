@@ -1,5 +1,6 @@
 # VerilogProjects
 🔌 Beginner Projects (Combinational Logic)
+
 Basic Gates – AND, OR, NOT, XOR, NAND, NOR
 
 Multiplexer (2:1, 4:1, 8:1)
