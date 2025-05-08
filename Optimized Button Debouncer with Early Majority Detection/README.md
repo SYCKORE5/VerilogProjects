@@ -63,4 +63,5 @@ vvp debounce_tb
 
 # View waveform
 gtkwave debounce.vcd
+```
 Built by Ahmed BOUHLAL, inspired by exploring smarter debounce algorithms for real-time systems
